@@ -3,7 +3,7 @@ instances: 1
 memory: 1G
 applications:
   - name: cook
-    host: cookie
+    host: cookie-paul
     services:
       - config-server
     env:
